@@ -1,7 +1,8 @@
 {
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
-    "source.organizeImports": "explicit",
-    "source.sortMembers": "explicit"
-  }
+  "editor.formatOnSave": false,
+  "editor.formatOnType": false,
+  "typescript.autoClosingTags": false,
+  "javascript.autoClosingTags": false,
+  "html.autoClosingTags": false,
+  "auto-close-tag.enableAutoCloseTag": false,
 }
