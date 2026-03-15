@@ -5,11 +5,11 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/anwersolangidev/rn-interface-kit/stargazers">
-    <img src="https://img.shields.io/github/stars/anwersolangidev/rn-interface-kit?style=flat-square&color=FFD700&labelColor=1a1a1a&label=⭐%20Stars" alt="Stars" />
+  <a href="https://github.com/anwersolangi/rn-interface-kit/stargazers">
+    <img src="https://img.shields.io/github/stars/anwersolangi/rn-interface-kit?style=flat-square&color=FFD700&labelColor=1a1a1a&label=⭐%20Stars" alt="Stars" />
   </a>
   <a href="https://github.com/anwersolangidev/rn-interface-kit/forks">
-    <img src="https://img.shields.io/github/forks/anwersolangidev/rn-interface-kit?style=flat-square&color=4a90e2&labelColor=1a1a1a&label=Forks" alt="Forks" />
+    <img src="https://img.shields.io/github/forks/anwersolangi/rn-interface-kit?style=flat-square&color=4a90e2&labelColor=1a1a1a&label=Forks" alt="Forks" />
   </a>
   <img src="https://img.shields.io/badge/React%20Native-Expo-000000?style=flat-square&logo=expo&logoColor=white&labelColor=1a1a1a" alt="Expo" />
   <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a1a" alt="TypeScript" />
