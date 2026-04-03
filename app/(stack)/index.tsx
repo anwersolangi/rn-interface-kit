@@ -17,8 +17,35 @@ type Route = {
 };
 
 const ROUTES: Route[] = [
+  { label: "3D Soda", path: "/3d-soda", icon: "cube-outline" },
+  { label: "AI Assistant Home", path: "/ai-assistant-home", icon: "sparkles-outline" },
+  { label: "Broadcast Radio", path: "/broadcast-radio", icon: "radio-outline" },
+  { label: "Card Input", path: "/card-input", icon: "card-outline" },
+  { label: "Cyberpunk Slot Machine", path: "/cyberpunk-slot-machine", icon: "game-controller-outline" },
+  { label: "Delivery Screen", path: "/delivery-screen", icon: "bicycle-outline" },
+  { label: "Duolingo Drag Drop", path: "/duolingo-drag-drop", icon: "grid-outline" },
+  { label: "Dynamic Music Player", path: "/dynamic-music-player", icon: "musical-notes-outline" },
+  { label: "Flappy Bird", path: "/flappy-bird", icon: "airplane-outline" },
+  { label: "Food Ordering", path: "/food-ordering", icon: "restaurant-outline" },
+  { label: "GitHub Profile Screen", path: "/github-profile-screen", icon: "logo-github" },
+  { label: "Habit Tracker AI", path: "/habbit-tracker-ai", icon: "sparkles-outline" },
+  { label: "Habit Tracker Homescreen", path: "/habit-tracker-homescreen", icon: "checkmark-done-outline" },
+  { label: "Kids Scenery", path: "/kids-scenery", icon: "image-outline" },
   { label: "Neo Brutalism Wallet", path: "/neo-brutalism-wallet", icon: "grid-outline" },
-  { label: "Neumorphism Calculator", path: "/scientific-calculator", icon: "ellipse-outline" },
+  { label: "Neumorphism Weather", path: "/neumorphism-weather", icon: "cloud-outline" },
+  { label: "Onboarding", path: "/onboarding", icon: "navigate-outline" },
+  { label: "OTP", path: "/otp", icon: "keypad-outline" },
+  { label: "OTT Home Screen", path: "/ott-home-screen", icon: "tv-outline" },
+  { label: "Pizza Ordering", path: "/pizza-ordering", icon: "pizza-outline" },
+  { label: "Profile", path: "/profile", icon: "person-outline" },
+  { label: "Reels", path: "/reels", icon: "play-circle-outline" },
+  { label: "Scientific Calculator", path: "/scientific-calculator", icon: "calculator-outline" },
+  { label: "Search", path: "/search", icon: "search-outline" },
+  { label: "Settings Toggle", path: "/settings-toggle", icon: "settings-outline" },
+  { label: "Spotify Wrap", path: "/spotify-wrap", icon: "musical-notes-outline" },
+  { label: "Stock Digit Flip", path: "/stock-digit-flip", icon: "trending-up-outline" },
+  { label: "Travel Booking", path: "/travel-booking", icon: "airplane-outline" },
+  { label: "YT Tinder", path: "/yt-tinder", icon: "heart-outline" },
 ];
 
 export default function Index() {
