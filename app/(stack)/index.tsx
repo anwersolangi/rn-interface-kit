@@ -46,6 +46,7 @@ const ROUTES: Route[] = [
   { label: "Stock Digit Flip", path: "/stock-digit-flip", icon: "trending-up-outline" },
   { label: "Travel Booking", path: "/travel-booking", icon: "airplane-outline" },
   { label: "YT Tinder", path: "/yt-tinder", icon: "heart-outline" },
+  { label: "OLX Listing Home", path: "/olx-listing-home", icon: "pricetags-outline" },
 ];
 
 export default function Index() {
