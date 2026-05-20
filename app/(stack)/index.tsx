@@ -47,6 +47,8 @@ const ROUTES: Route[] = [
   { label: "Travel Booking", path: "/travel-booking", icon: "airplane-outline" },
   { label: "YT Tinder", path: "/yt-tinder", icon: "heart-outline" },
   { label: "OLX Listing Home", path: "/olx-listing-home", icon: "pricetags-outline" },
+  { label: "Gym Membership Card", path: "/gym-membership-card", icon: "card-outline" },
+  { label: "OTT Streaming Home", path: "/ott-streaming-home", icon: "tv-outline" },
 ];
 
 export default function Index() {
