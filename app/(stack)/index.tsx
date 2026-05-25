@@ -51,6 +51,7 @@ const ROUTES: Route[] = [
   { label: "OTT Streaming Home", path: "/ott-streaming-home", icon: "tv-outline" },
   { label: "Restaurant Booking Screen", path: "/restaurant-booking-screen", icon: "restaurant-outline" },
   { label: "Restaurant Discovery Screen", path: "/restaurant-discovery-screen", icon: "compass-outline" },
+  { label: "Blog Home Screen", path: "/blog-home-screen", icon: "newspaper-outline" },
 ];
 
 export default function Index() {
