@@ -52,6 +52,7 @@ const ROUTES: Route[] = [
   { label: "Restaurant Booking Screen", path: "/restaurant-booking-screen", icon: "restaurant-outline" },
   { label: "Restaurant Discovery Screen", path: "/restaurant-discovery-screen", icon: "compass-outline" },
   { label: "Blog Home Screen", path: "/blog-home-screen", icon: "newspaper-outline" },
+  { label: "Boarding Pass", path: "/boarding-pass", icon: "ticket-outline" },
 ];
 
 export default function Index() {
