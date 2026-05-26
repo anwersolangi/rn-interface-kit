@@ -45,7 +45,7 @@ const BADGE_COLORS: Record<string, string> = {
   Featured: '#fbbf24', Urgent: '#f87171', 'Top Ad': '#a78bfa',
 };
 
-export function OLXListingHome() {
+export default function OLXListingHome() {
 
   const insets = useSafeAreaInsets();
   const [saved, setSaved] = useState<string[]>([]);
