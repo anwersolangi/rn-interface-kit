@@ -12,7 +12,6 @@ import Animated, {
   Extrapolation,
   FadeInDown,
   FadeIn,
-  SharedValue,
 } from 'react-native-reanimated';
 import {
   Gesture,

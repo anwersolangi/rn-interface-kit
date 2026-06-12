@@ -54,6 +54,7 @@ const ROUTES: Route[] = [
   { label: "Blog Home Screen", path: "/blog-home-screen", icon: "newspaper-outline" },
   { label: "Boarding Pass", path: "/boarding-pass", icon: "ticket-outline" },
   { label: "Coffee Order Carousel", path: "/coffee-order-carousel", icon: "cafe-outline" },
+  { label: "Rider Arriving", path: "/rider-arriving", icon: "bicycle-outline" },
 ];
 
 export default function Index() {
